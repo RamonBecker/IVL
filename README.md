@@ -5,6 +5,18 @@
 This project was developed with the aim of interpreting the virus tracking log performed by Avira antivirus. The generated logs contain information that lay users cannot interpret, so this software was developed to help users see the logs in a simplified way. The Avira virus laboratory was used, which can be consulted through the link: https://www.avira.com/pt-br/support-virus-lab. For the removal of information from the site, the JSOUP library was used.
 
 
+## Demo
+
+![Tela1](https://user-images.githubusercontent.com/44611131/120849394-6bb2d300-c54c-11eb-9799-cba61879c423.png)
+
+![Tela2](https://user-images.githubusercontent.com/44611131/120849449-7ec5a300-c54c-11eb-9b36-98d5a550fd22.png)
+
+![Tela3](https://user-images.githubusercontent.com/44611131/120849448-7e2d0c80-c54c-11eb-8dd8-14f0352ab2e2.png)
+
+![Tela4](https://user-images.githubusercontent.com/44611131/120849441-7d947600-c54c-11eb-81af-afc1b55054f0.png)
+
+
+
 ## ⚠️ Prerequisite
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/br/java/technologies/javase-downloads.html) >= 11 
 
